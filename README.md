@@ -13,9 +13,22 @@ You can click the Preview link to take a look at your changes.
 💻 I'm Developer
 
 🤖Coding With 
-PHP , javascript , HTML , CSS , Typescript , C , C++ , etc.
+- PHP
+- javascript 
+- HTML 
+- CSS 
+- Typescript 
+- C 
+- C++ 
+- etc.
 💾Database With
-SQL , Postgresql , etc.
+- SQL 
+- Postgresql 
+- etc.
 Framework With
-Codeigniter , Laravel , Yii , Bootstrap ,antd
+- Codeigniter 
+- Laravel 
+- Yii 
+- Bootstrap
+- antd
 
