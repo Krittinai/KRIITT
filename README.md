@@ -9,5 +9,5 @@ krssy/krssy is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi, I’m @krssy 
-🐱 My name's Krittinai Kaeomaroeng (Palm) 
+🐱 My name is Krittinai Kaeomaroeng (Palm) 
 
