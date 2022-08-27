@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 🐱 My name is Krittinai Kaeomaroeng (Palm) 
 💻 I'm Developer
 
-🤖Coding With 
+<!-- 🤖Coding With 
 - PHP
 - javascript 
 - HTML 
@@ -34,5 +34,5 @@ Framework With
 - Laravel 
 - Yii 
 - Bootstrap
-- antd
+- antd -->
 
